@@ -1,0 +1,6 @@
+@C42_G02_API05_HostAddress = http://localhost:5065
+
+GET {{C42_G02_API05_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
